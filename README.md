@@ -1,6 +1,7 @@
 # nagisk2
 
-A nagios plugin for checking asterisk using AMI
+A nagios plugin for checking asterisk using AMI  
+Inspired by https://github.com/nicolargo/nagisk
 
 # Setup
 
@@ -30,7 +31,7 @@ And finally, copy this file to `$nagios_plugindir` (usually `/usr/lib/nagios/plu
 
 # Supported commands
 
-- `pjsip_outbound_registry`: Checks a outbound trunk.
+- `pjsip_outbound_registry`: Checks an outbound trunk.
 
 # Contributing
 
