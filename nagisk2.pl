@@ -54,9 +54,9 @@ use Data::Dumper;
 
 # you may change these
 use constant R_PORT => 5038;
-use constant IP_ADDR => '192.168.178.105';
+use constant IP_ADDR => 'localhost';
 use constant AMI_USER => 'nagios';
-use constant AMI_PASS => 'ewfhiwheqfoiehj90f';
+use constant AMI_PASS => '<your_ami_password>';
 
 # do not change anything below here
 use constant OK => 0;
