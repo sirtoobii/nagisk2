@@ -46,7 +46,7 @@ use strict;
 use warnings FATAL => 'all';
 use experimental 'signatures';
 
-our $VERSION = '0.0.1';
+our $VERSION = '0.0.2';
 
 use IO::Socket;
 use Data::Dumper;

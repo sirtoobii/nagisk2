@@ -1,3 +1,7 @@
+0.0.2 2021-08-21  Tobias Bossert (tobias.bossert@fastpath.ch)
+
+- pjsip_outbound_registry: Look for ObjectName instead of Endpoint
+
 0.0.1 2020-12-30  Tobias Bossert (tobias.bossert@fastpath.ch)
 
 - initial release
